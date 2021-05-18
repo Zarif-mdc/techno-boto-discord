@@ -1,3 +1,3 @@
-export const DISCORD_TOKEN = 'ODQ0MTU3ODE4MzgxNjY0MjU2.YKOVOw.2SHCqmArONBPcF46DrqYC3ekVeU'
+export const DISCORD_TOKEN = ''
 
 export const TWITCH_CHANNEL_ID = ''
